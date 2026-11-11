@@ -1,0 +1,6 @@
+{
+  "name": "OceanFlow: Dance Away Digital Fatigue",
+  "description": "Heal from digital fatigue through peaceful ocean dance movements, real-time MediaPipe pose tracking, soothing ambient soundscapes, and gentle posture recovery.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
